@@ -1,0 +1,16 @@
+[
+  {
+    "name": "new",
+    "lastName": "request",
+    "mobile": "6733456789",
+    "email": "ram@gmail.com",
+    "message": "this is ram from side server"
+  },
+  {
+    "name": "sarjeet",
+    "lastName": "kumawat",
+    "mobile": "6733456789",
+    "email": "ram@gmail.com",
+    "message": "this is ram from side server"
+  }
+]
